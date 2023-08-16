@@ -4,5 +4,5 @@
 <h4>درصورت مشاهده مشکل و یا تغییرات در اطلاعات، لطفا بصورت Pull Request یا Issue اعلام کنید.</h4>
 </div>
 
-<a href="#">Live Preview</a>
+<a href="https://brt.rezababakhani.ir/">Live Preview</a>
 
