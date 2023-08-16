@@ -1,0 +1,58 @@
+body {
+	font-family: Vazirmatn, sans-serif;
+	margin: 0;
+}
+
+.container {
+	height: 100vh;
+	background-color: white;
+	display: flex;
+	flex-direction: column;
+}
+
+#map {
+	flex-grow: 1;
+	background-color: lightgray;
+	padding: 20px;
+}
+.footer {
+	flex-grow: 0;
+	padding: 5px;
+}
+
+.footer h1 {
+	font-size: 1em;
+	direction: rtl;
+	text-align: center;
+	margin: 0;
+}
+
+.footer h1 a {
+	text-decoration: none;
+	color: #444477;
+}
+
+.leaflet-container {
+	font-family: Vazirmatn, sans-serif;
+}
+
+.leaflet-popup-content {
+	text-align: right;
+}
+
+.footer h2 {
+	direction: rtl;
+	font-size: 0.9em;
+	text-align: center;
+	margin: 0;
+}
+.footer h2 a {
+	text-decoration: none;
+	color: #444477;
+}
+
+.gh-icon {
+	height: 20px;
+	display: inline-block;
+	vertical-align: middle;
+}
